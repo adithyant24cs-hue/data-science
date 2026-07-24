@@ -1,2 +1,2 @@
-# data-science
-day 2
+data analytics
+
